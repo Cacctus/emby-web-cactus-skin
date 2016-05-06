@@ -1,7 +1,7 @@
 html {
     /* Check if certain android or iOS fonts are natively available, otherwise load Open Sans */
     font-family: San Francisco, Helvetica Neue, 'Open Sans';
-    font-size: 2.5vh;
+    font-size: 2.0vh;
 }
 
 h1 {
